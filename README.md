@@ -1,6 +1,6 @@
 # GitHub
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/800px-GitHub_logo_2013.svg.png?20220810213409)
+![logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 *GitHub* - крупнейшийвеб-сервис для хостинга IT-проектов и их совместной разработки.
 
